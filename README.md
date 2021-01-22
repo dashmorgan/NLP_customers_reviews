@@ -1,4 +1,5 @@
 # NLP_customers_reviews
+_**Link to the Medium blog post: https://daria-morgan.medium.com/more-then-just-stars-bd320232572b_** 
 The idea behind this project was to see if I could create some actionable money saving insights from customers’ reviews using NLP.<br><br>
 These insights can help either reduce returns, which will increase revenue and profit, create better marketing, or even modify some of these analyzed products instead of discontinuing them.<br><br>
 1. For the analysis, I collected more than 15,000 reviews and some of its features such as rating, weight, height, and others. I did it using Python packages (Selenium and Beautiful soup). The code for scraping reviews provided in **_1_Scraping_data.ipynb_** jupyter notebook.<br><br>
